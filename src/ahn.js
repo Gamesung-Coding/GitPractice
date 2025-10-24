@@ -1,3 +1,2 @@
 const name = "ahn";
-const hello = "Hello World!";
-console.log(`${name}: ${hello}`);
+console.log(`${name}: Hello World!`);
