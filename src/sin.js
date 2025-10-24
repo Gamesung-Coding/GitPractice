@@ -1,3 +1,2 @@
 const name = "sin";
-const hello = "Hello";
-console.log('${name}: ${hello}');
+console.log('${name}: Hello');
