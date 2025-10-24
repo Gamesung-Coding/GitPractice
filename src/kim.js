@@ -1,3 +1,5 @@
 const name = "Kim";
+const hello = "hello world!"
 console.log("this is Kim.js file");
-console.log("Hello");
+console.log('${hello}');
+
